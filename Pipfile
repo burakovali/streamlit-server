@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+#openpyxl = "*"
+matplotlib = "*"
+#sklearn = "*"
+#seaborn = "*"
+#keras = "*"
+#tensorflow = "*"
+#markdown-strings = "*"
+pydub = "*"
+librosa = "*"
+streamlit = "*"
+markdown = "*"
+plotly = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

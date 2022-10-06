@@ -1,0 +1,4 @@
+div[class="ReactVirtualized__Grid table-bottom-left"] div,
+div[class="ReactVirtualized__Grid table-top-right"] div {
+    color: red;
+}
